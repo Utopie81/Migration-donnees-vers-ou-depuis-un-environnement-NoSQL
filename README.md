@@ -1,4 +1,4 @@
-# Migration-de-donnees-vers-ou-depuis-un-environnement-NoSQL
+# Migration-donnees-vers-ou-depuis-un-environnement-NoSQL
 ## Description
 
 Ce projet a été réalisé dans le cadre d'une SAÉ ayant pour objectif de migrer une base de données relationnelle (SQLite) vers une base de données NoSQL orientée graphe (Neo4j).
